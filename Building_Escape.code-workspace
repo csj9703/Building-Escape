@@ -10,7 +10,12 @@
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off"
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\Udemy Courses\\Unreal Engine C++ Developer\\Building_Escape\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\Building_Escape\\Definitions.Building_Escape.h",
+			"D:\\Udemy Courses\\Unreal Engine C++ Developer\\Building_Escape\\Intermediate\\Build\\Win64\\Building_EscapeEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
 	},
 	"extensions": {
 		"recommendations": [
