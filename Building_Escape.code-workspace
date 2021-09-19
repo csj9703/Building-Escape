@@ -6,15 +6,15 @@
 		},
 		{
 			"name": "UE4",
-			"path": "G:\\UE_4.27"
+			"path": "C:\\Program Files\\Epic Games\\UE_4.27"
 		}
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off",
 		"C_Cpp.default.forcedInclude": [
 			"${default}",
-			"G:\\Udemy Projects\\Building-Escape\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\Building_Escape\\Definitions.Building_Escape.h",
-			"G:\\Udemy Projects\\Building-Escape\\Intermediate\\Build\\Win64\\Building_EscapeEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+			"D:\\Udemy Courses\\Unreal Engine C++ Developer\\Building_Escape\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\Building_Escape\\Definitions.Building_Escape.h",
+			"D:\\Udemy Courses\\Unreal Engine C++ Developer\\Building_Escape\\Intermediate\\Build\\Win64\\Building_EscapeEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
 		]
 	},
 	"extensions": {
